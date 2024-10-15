@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Maryam Kafi Kang"
   pronouns         : # example: "she/her"  
-  bio              : "ML eangineer"
+  bio              : "Data Scientist | AI and Machine Learning | Natural Language Processing"
   location         : "Connecticut, USA"
-  employer         : "University of Connecticut"
+  employer         : "PhD Student at University of Connecticut"
   uri              : # URL
   email            : "marykafi@uconn.edu" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
