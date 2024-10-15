@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Maryam KafiKang / Portfolio"
+title                    : "Maryam's homepage"
 title_separator          : "-"
 name                     : &name "Maryam KafiKang"
 description              : &description "personal description"
